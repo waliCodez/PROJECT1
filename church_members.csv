@@ -1,0 +1,31 @@
+MemberID,FirstName,LastName,Age,Gender,Phone,Email,Address,MembershipDate,Ministry,AttendanceLastMonth,TotalDonations
+CH001,Joshua,Odigwe,46,M,08088582952,joshua.odigwe@example.com,28 Cross Road,2023-09-24,Men's Fellowship,5,17612
+CH002,Paul,Oluwole,49,M,08062888948,paul.oluwole@example.com,9 Market Road,2016-07-17,Security,3,26524
+CH003,John,Akintola,47,M,08088100215,john.akintola@example.com,41 Cross Road,2022-05-02,Evangelism,2,68044
+CH004,Hannah,Odigwe,25,F,08082573538,hannah.odigwe@example.com,4 Cross Road,2015-07-11,Evangelism,1,92696
+CH005,Joy,Oluwole,60,F,08026101506,joy.oluwole@example.com,48 Unity Street,2022-09-21,Choir,2,74055
+CH006,Elizabeth,Obi,53,F,08092219953,elizabeth.obi@example.com,7 Cross Road,2019-09-13,Security,0,33131
+CH007,Matthew,Akinyemi,30,M,08056939950,matthew.akinyemi@example.com,44 Market Road,2018-09-16,Men's Fellowship,1,80162
+CH008,Matthew,Balogun,45,M,08015498277,matthew.balogun@example.com,13 Hope Street,2020-04-15,Security,6,92408
+CH009,David,Johnson,67,M,08083728492,david.johnson@example.com,1 Peace Close,2015-10-29,Choir,1,23554
+CH010,Hannah,Adeyemi,31,F,08043769793,hannah.adeyemi@example.com,28 Market Road,2020-08-04,Ushering,6,95979
+CH011,Matthew,Okoro,30,M,08067208391,matthew.okoro@example.com,15 Cross Road,2021-01-24,Evangelism,4,91350
+CH012,Joshua,Nwosu,25,M,08092153048,joshua.nwosu@example.com,19 Market Road,2018-07-31,Prayer Team,5,85433
+CH013,Elizabeth,Emeka,58,F,08035005447,elizabeth.emeka@example.com,50 Cross Road,2016-12-17,Ushering,0,30588
+CH014,Caleb,Oluwole,38,M,08074601854,caleb.oluwole@example.com,3 Hope Street,2021-04-02,Technical,4,70812
+CH015,Caleb,Obi,32,M,08093955007,caleb.obi@example.com,19 Blessing Drive,2019-01-15,Ushering,5,42379
+CH016,Mary,Odigwe,46,F,08095151412,mary.odigwe@example.com,41 Cross Road,2019-02-21,Prayer Team,1,79364
+CH017,Hannah,Odigwe,65,F,08042153617,hannah.odigwe@example.com,30 Peace Close,2022-01-10,Men's Fellowship,6,16186
+CH018,Peter,Balogun,35,M,08032300745,peter.balogun@example.com,7 Cross Road,2019-06-20,Security,4,89688
+CH019,Caleb,Nwosu,42,M,08075403963,caleb.nwosu@example.com,47 Peace Close,2018-10-09,Prayer Team,5,28747
+CH020,John,Johnson,46,M,08067482842,john.johnson@example.com,7 Peace Close,2017-07-07,Evangelism,0,27985
+CH021,Joshua,Odigwe,30,M,08088816275,joshua.odigwe@example.com,48 Light Street,2019-04-08,Security,4,93668
+CH022,Caleb,Adams,43,M,08022907036,caleb.adams@example.com,17 Blessing Drive,2019-10-11,Technical,3,22858
+CH023,Michael,Balogun,30,M,08081452735,michael.balogun@example.com,45 Blessing Drive,2020-08-27,Prayer Team,4,57261
+CH024,Grace,Oluwole,40,F,08058911513,grace.oluwole@example.com,44 Hope Street,2018-03-02,Ushering,4,69243
+CH025,Elizabeth,Nwosu,51,F,08035453337,elizabeth.nwosu@example.com,45 Market Road,2017-09-15,Prayer Team,0,82603
+CH026,Peter,Odigwe,41,M,08094452468,peter.odigwe@example.com,33 Market Road,2017-12-26,Prayer Team,0,63552
+CH027,Faith,Akinyemi,43,F,08073611292,faith.akinyemi@example.com,7 Unity Street,2022-12-08,Men's Fellowship,5,79002
+CH028,Joshua,Oluwole,24,M,08089000962,joshua.oluwole@example.com,26 Unity Street,2018-06-14,Prayer Team,1,78199
+CH029,Matthew,Odigwe,48,M,08027193059,matthew.odigwe@example.com,21 Cross Road,2017-05-12,Evangelism,1,91744
+CH030,Caleb,Emeka,65,M,08087189116,caleb.emeka@example.com,20 Market Road,2019-01-09,Security,2,62884
